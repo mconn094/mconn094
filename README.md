@@ -1,1 +1,1 @@
-- 👋 H everyone im Matt! I will be sharing a collection of my projects during my journey of becoming a security anaylst. My projects reflect my dedicaiton and passion for this field! 
+- 👋 Hi everyone im Matt! I will be sharing a collection of my projects during my journey of becoming a security anaylst. My projects reflect my dedicaiton and passion for this field! 
